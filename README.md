@@ -5,3 +5,4 @@ I am a simple software developer, building web, mobile application with Laravel,
 
 I am doing some online class about building staffs with Laravel.
 
+[Follow me in twitter](https://twitter.com/abdhamidafghan)
