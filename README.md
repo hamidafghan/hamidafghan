@@ -19,16 +19,27 @@ Developer::create([
 ]);
 ```
 
-<br>
-
+<p>
+  <a href="https://github.com/hamidafghan?tab=followers" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hamidafghan?label=Github&style=flat">
+  </a>
+  <a href="https://github.com/hamidafghan" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=hamidafghan&label=Views&color=brightgreen&style=flat"/>
+  </a>
+</p>
+ 
 A Software Developer with 4+ years of experience and expertise in full-stack development, testing, and maintenance of software systems. Proficient in various platforms, languages, and API integration. Experienced with test-driven development (TDD), able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-<br>
+<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamidafghan&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidafghan&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <a href="https://github.com/hamidafghan">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hamidafghan&show_icons=true&theme=white&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidafghan&theme=white&hide_border=true" />
+  </a>
+</p>
 
-<br>
+<br />
 
 ```php
 {{ Follow::me() }}
