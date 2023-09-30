@@ -14,7 +14,7 @@ Developer::create([
   
   'title' => 'Full-stack Developer',
   
-  'stack' => ['Laravel', 'Vue', 'NodeJs'] 
+  'stack' => ['Laravel', 'Vue', 'Filament'] 
   
 ]);
 ```
