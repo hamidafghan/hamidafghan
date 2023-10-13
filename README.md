@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://images.weserv.nl/?url=https://hamidafghan.me/img/profile.png?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d">
-  
-  **<p align="center">Hamid Afghan</p>**
-</p>
-
-
 ```php
 // WHO AM I?
 
