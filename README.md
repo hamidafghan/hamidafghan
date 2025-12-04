@@ -30,5 +30,5 @@ A Software Developer with 4+ years of experience and expertise in full-stack dev
 ```
 
 <pre>
-['<a href="https://twitter.com/abdhamidafghan" title="Twitter Profile">twitter</a>', '<a href="https://linkedin.com/in/hamidafghan" title="Linkedin profile">linkedin</a>', '<a href="https://hamidafghan.me" title="Personal Website">hamidafghan.me</a>', '<a href="mailto:i@hamidafghan.me" title="Linkedin profile">compose mail</a>']
+['<a href="https://x.com/NanoNulla" title="Twitter Profile">twitter</a>', '<a href="https://linkedin.com/in/nanonulla" title="Linkedin profile">linkedin</a>', '<a href="https://hamidafghan.me" title="Personal Website">hamidafghan.me</a>', '<a href="mailto:i@hamidafghan.me" title="compose email">compose mail</a>']
 </pre>
